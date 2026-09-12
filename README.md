@@ -25,6 +25,18 @@ Objetivo: Criar um miniguia de estudos que ajude iniciantes a entender os concei
 
 ---
 
+# Mapa Mental
+<img width="1065" height="775" alt="image" src="https://github.com/user-attachments/assets/f7d86d67-f1fc-4577-973a-327c8fe8bc5a" />
+
+---
+
+## 🎥 Vídeo explicativo 
+[gemini-notebook] (https://notebook.google.com/notebook/30aa349d-13b4-4f4f-8b52-4c45666006a7)
+
+<img width="1003" height="645" alt="image" src="https://github.com/user-attachments/assets/2e5b08a2-7c0a-4c89-8382-c29908107b1e" />
+
+---
+
 ## 📘 Miniguia de Estudo
 
 ### Resumo
